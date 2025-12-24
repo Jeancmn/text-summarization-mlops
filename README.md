@@ -416,8 +416,6 @@ Contributions are welcome! Please follow these steps:
 **Jean Mangones Nardey**
 
 - GitHub: [@Jeancmn](https://github.com/Jeancmn)
-- LinkedIn: [jeanm-nardey](https://www.linkedin.com/in/jeanm-nardey/)
-- Email: nardeyjean@gmail.com
 
 ---
 
